@@ -1,0 +1,9 @@
+{
+    "name": "DSPFreeMechaCustom",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/appuns/DSPFreeMechaCustom",
+    "description": "Allows you to apply Mecha Design without material. メカのデザインを材料無しで適用できるようになります。",
+    "dependencies": [
+    "xiaoye97-BepInEx-5.4.17"
+    ]
+}
